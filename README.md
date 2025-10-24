@@ -43,8 +43,7 @@
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35" height="35" alt="MySQL"/>
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="35" height="35" alt="Firebase"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="35" height="35" alt="AWS"/>
-    </td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60" height="30" alt="AWS"/>
   </tr>
 
   <tr>

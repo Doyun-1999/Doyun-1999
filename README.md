@@ -9,7 +9,52 @@
 
 - 📫 How to reach me **rkwhk49@naver.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">🧰 Tech Stack</h3>
+
+<table>
+  <tr>
+    <td align="center"><b>App</b></td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="35" height="35" alt="Flutter"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="35" height="35" alt="Android"/>
+      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="35" height="35" alt="Kotlin"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" height="35" alt="JavaScript"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Server</b></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="35" height="35" alt="Node.js"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="35" height="35" alt="PHP"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" height="35" alt="Python"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>AI / Vision</b></td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="35" height="35" alt="OpenCV"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>DB / Cloud</b></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35" height="35" alt="MySQL"/>
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="35" height="35" alt="Firebase"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="35" height="35" alt="AWS"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35" height="35" alt="Git"/>
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="35" height="35" alt="Figma"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="35" height="35" alt="Notion"/>
+    </td>
+  </tr>
+</table>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doyun-1999&show_icons=true&locale=en&layout=compact" alt="doyun-1999" /></p>

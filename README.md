@@ -1,59 +1,78 @@
-<h1 align="center">Hi 👋, I'm 정도윤</h1>
-<h3 align="center">A passionate Mobile Application developer from Korea</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Kotlin, Flutter**
+# 안녕하세요 👋, 모바일 앱 개발자 정도윤입니다!
 
-- 👨‍💻 All of my projects are available at [https://petite-charger-676.notion.site/App-200d398acdf643cd945e00b63689f8d8?pvs=74](https://petite-charger-676.notion.site/App-200d398acdf643cd945e00b63689f8d8?pvs=74)
+**A passionate Mobile Application developer from Korea**
 
-- 💬 Ask me about **Flutter,Android**
+![Visitor Count](https://komarev.com/ghpvc/?username=doyun-1999&color=blue&style=flat-square)
 
-- 📫 How to reach me **rkwhk49@naver.com**
+</div>
 
-<h3 align="left">🧰 Tech Stack</h3>
+---
+
+### 🙋‍♂️ About Me
+
+- 🌱 Currently learning **Kotlin, Flutter**
+- 👨‍💻 All of my projects are available at [Notion Portfolio](https://petite-charger-676.notion.site/App-200d398acdf643cd945e00b63689f8d8?pvs=74)
+- 💬 Ask me about **Flutter, Android**
+- 📫 Reach me at **rkwhk49@naver.com**
+
+---
+
+## 🧰 Tech Stack
 
 <table>
   <tr>
-    <td align="center"><b>App</b></td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="35" height="35" alt="Flutter"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="35" height="35" alt="Android"/>
-      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="35" height="35" alt="Kotlin"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" height="35" alt="JavaScript"/>
+    <td align="center" width="100"><b>📱 App</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     </td>
   </tr>
-
   <tr>
-    <td align="center"><b>Server</b></td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="35" height="35" alt="Node.js"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="35" height="35" alt="PHP"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" height="35" alt="Python"/>
+    <td align="center"><b>🌐 Web</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
     </td>
   </tr>
-
   <tr>
-    <td align="center"><b>AI / Vision</b></td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="35" height="35" alt="OpenCV"/>
+    <td align="center"><b>🖥️ Server</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     </td>
   </tr>
-
   <tr>
-    <td align="center"><b>DB / Cloud</b></td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35" height="35" alt="MySQL"/>
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="35" height="35" alt="Firebase"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60" height="30" alt="AWS"/>
+    <td align="center"><b>🤖 AI / Vision</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+    </td>
   </tr>
-
   <tr>
-    <td align="center"><b>Tools</b></td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35" height="35" alt="Git"/>
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="35" height="35" alt="Figma"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="35" height="35" alt="Notion"/>
+    <td align="center"><b>🗄️ DB / Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🛠️ Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
     </td>
   </tr>
 </table>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doyun-1999&show_icons=true&locale=en&layout=compact" alt="doyun-1999" /></p>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doyun-1999&theme=tokyonight"/>
+</p>

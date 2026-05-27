@@ -21,3 +21,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: 'https://doyun1999.tistory.com/rss'
+          request_header_dict: '{"User-Agent": "Mozilla/5.0 (compatible; Googlebot/2.1)", "Accept": "application/rss+xml, application/xml, text/xml"}'

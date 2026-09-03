@@ -64,11 +64,3 @@
 - [MVC, MVVM 아키텍처 구조 차이](https://doyun1999.tistory.com/29)
 - [Flutter AppBar에 Blur 효과 적용하기 &lpar;feat. 상태바 블러 처리&rpar;](https://doyun1999.tistory.com/28)
 <!-- BLOG-POST-LIST:END -->
-
----
-
-<div align="center">
-
-📫 **rkwhk49@naver.com**
-
-</div>

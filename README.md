@@ -2,20 +2,34 @@
 
 # 안녕하세요 👋, 모바일 앱 개발자 정도윤입니다!
 
-**A passionate Mobile Application developer from Korea**
+**Android · Flutter를 중심으로 제품을 만들고, 운영 환경의 문제를 찾아 개선합니다.**
 
+문제를 해결하는 데서 끝내지 않고, 배운 점을 다음 개발 과정의 개선으로 연결합니다.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://petite-charger-676.notion.site/App-200d398acdf643cd945e00b63689f8d8?pvs=74)
+[![Blog](https://img.shields.io/badge/Blog-Tistory-FF5A4A?style=flat-square&logo=tistory&logoColor=white)](https://doyun1999.tistory.com/)
 ![Visitor Count](https://komarev.com/ghpvc/?username=doyun-1999&color=blue&style=flat-square)
 
 </div>
 
 ---
 
-### 🙋‍♂️ About Me
+## 🚀 Featured Project
 
-- 🌱 Currently learning **Kotlin, Flutter**
-- 👨‍💻 All of my projects are available at [Notion Portfolio](https://petite-charger-676.notion.site/App-200d398acdf643cd945e00b63689f8d8?pvs=74)
-- 💬 Ask me about **Flutter, Android**
-- 📫 Reach me at **rkwhk49@naver.com**
+### 👟 MODY — 함께 걷는 그룹 챌린지
+
+> 친구·가족과 그룹을 만들어 함께 걷고 목표를 달성하는 Android 서비스
+
+**🏆 CMC 19th 대상 · Android Developer**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Central-MakeUs/mody-android)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.makeus.mody&hl=ko)
+
+- **Kotlin · Jetpack Compose** 기반 Android 앱 개발
+- **Multi-module · Clean Architecture · MVI** 기반 앱 구조 설계
+- **Health Connect** 기반 걸음 수 데이터 연동
+- **GitHub Actions · Firebase App Distribution** 기반 CI/CD 구축
+- **Claude Code · Figma MCP**를 활용한 개발 워크플로우 자동화 및 디자인 검증
 
 ---
 
@@ -23,51 +37,34 @@
 
 <table>
   <tr>
-    <td align="center" width="100"><b>📱 App</b></td>
+    <td align="center" width="150"><b>📱 Mobile</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🌐 Web</b></td>
+    <td align="center"><b>⚙️ Development</b></td>
     <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🖥️ Server</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🤖 AI / Vision</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🗄️ DB / Cloud</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🛠️ Tools</b></td>
+    <td align="center"><b>🤖 AI Workflow</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MCP-5A5A5A?style=for-the-badge"/>
     </td>
   </tr>
 </table>
+
+> AI 도구를 단순 코드 생성보다 **코드 분석 · 반복 작업 자동화 · 디자인 검증 · 개발 워크플로우 개선**에 활용합니다.
 
 ---
 
@@ -88,3 +85,11 @@
 - [MVC, MVVM 아키텍처 구조 차이](https://doyun1999.tistory.com/29)
 - [Flutter AppBar에 Blur 효과 적용하기 &lpar;feat. 상태바 블러 처리&rpar;](https://doyun1999.tistory.com/28)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+<div align="center">
+
+📫 **rkwhk49@naver.com**
+
+</div>

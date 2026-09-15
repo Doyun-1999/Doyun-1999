@@ -6,7 +6,7 @@
 
 실패를 일회성 문제로 여기지않고, 무엇을 배웠고 다음에는 어떻게 개선할 수 있을지 고민합니다
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://petite-charger-676.notion.site/App-200d398acdf643cd945e00b63689f8d8?pvs=74)&nbsp;&nbsp;&nbsp;&nbsp;[![Blog](https://img.shields.io/badge/Blog-Tistory-FF5A4A?style=flat-square&logo=tistory&logoColor=white)](https://doyun1999.tistory.com/)
+[![Blog](https://img.shields.io/badge/Blog-Tistory-FF5A4A?style=flat-square&logo=tistory&logoColor=white)](https://doyun1999.tistory.com/)
 
 </div>
 
